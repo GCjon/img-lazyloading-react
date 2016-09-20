@@ -11,3 +11,5 @@ Example:
 
 <ImgLazyLoad src="https://pixabay.com/static/uploads/photo/2016/09/02/18/40/sandburg-1639999_960_720.jpg" errImg="./img/error1.png" loadImg="./img/loading1.gif" alt="Image6"/>
 ```
+
+<a href="https://cdn.rawgit.com/billws/img-lazyloading-react/master/example/index.html">Demo</a>

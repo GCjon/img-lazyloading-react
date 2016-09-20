@@ -7,9 +7,9 @@ var IndexPage = React.createClass({
                 <div style={{display: 'block'}}>
                   This is test image for lazy loading.
                 </div>
-                <ImgLazyLoad src="https://pixabay.com/static/uploads/photo/2016/09/14/19/49/sunset-1670219_960_720.jpg"/>
+                <ImgLazyLoad src="http://raumrot.com/wp-content/uploads/2016/01/msp_1505_9864.jpg"/>
                 <div style={{display: 'block', height: '300px'}}></div>
-                <ImgLazyLoad src="https://pixabay.com/static/uploads/photo/2016/08/25/19/17/boot-1620452_960_720.jpg" alt="Image2"/>
+                <ImgLazyLoad src="http://raumrot.com/wp-content/uploads/2016/01/msp_1405_1460.jpg" alt="Image2"/>
                 <div style={{display: 'block', height: '300px'}}></div>
                 <ImgLazyLoad src="http://images-assets.nasa.gov/image/PIA18033/PIA18033~orig.jpg" loadImg="./img/loading1.gif"/>
                 <div style={{display: 'block', height: '300px'}}></div>
@@ -17,7 +17,7 @@ var IndexPage = React.createClass({
                 <div style={{display: 'block', height: '300px'}}></div>
                 <ImgLazyLoad src="./image/showerror2.jpg" errImg="./img/error1.png" alt="ErrorImage2"/>
                 <div style={{display: 'block', height: '300px'}}></div>
-                <ImgLazyLoad src="https://pixabay.com/static/uploads/photo/2016/09/02/18/40/sandburg-1639999_960_720.jpg" errImg="./img/error1.png" loadImg="./img/loading1.gif" alt="Image6"/>
+                <ImgLazyLoad src="http://raumrot.com/wp-content/uploads/2016/01/msp_0410_4125.jpg"s errImg="./img/error1.png" loadImg="./img/loading1.gif" alt="Image6"/>
                 <div style={{display: 'block', height: '300px'}}></div>
                 <ImgLazyLoad src="http://images-assets.nasa.gov/image/ARC-2008-ACD08-0005-117/ARC-2008-ACD08-0005-117~orig.jpg" errImg="./img/error1.png" loadImg="./img/loading2.gif" alt="NASAImage2"/>
                 <div style={{display: 'block', height: '300px'}}></div>
